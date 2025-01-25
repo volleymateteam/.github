@@ -1,12 +1,15 @@
-<!-- ## Hi there 👋
+# License
 
-<!--
+This project is licensed under a **Custom Proprietary License**.
 
-**Here are some ideas to get you started:**
+The use of this software is strictly prohibited for any of the following purposes without prior written consent from the author:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
---> -->
+- Commercial use
+- Redistribution or sublicensing
+- Modification or derivation for other applications or platforms
+
+By accessing this software, you agree to adhere to the terms outlined in the [LICENSE](LICENSE) file. For further details, see the [COPYRIGHT](COPYRIGHT) file.
+
+For licensing inquiries, please contact the author:  
+**Reza Barzegar Gashti**  
+[rezabarzegargashti@gmail.com](mailto:rezabarzegargashti@gmail.com)
